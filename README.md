@@ -1,6 +1,4 @@
-# Portfolio Project #1
-
-Simple Calculator 
+# Portfolio Project #1 :: Calculator
 
 ## Stack
 
